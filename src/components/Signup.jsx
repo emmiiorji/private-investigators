@@ -49,7 +49,7 @@ const Signup = () => {
     <div
       className=""
       style={{
-        backgroundImage: 'url("https://drive.google.com/uc?id=1eaP9yms1pKKLtJCt0gX4tFCHtpk-URLD")',
+        backgroundImage: 'url("https://res.cloudinary.com/emmii/image/upload/v1740429698/private-investigators/download_rslxmg.jpg")',
         height: '100vh',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
